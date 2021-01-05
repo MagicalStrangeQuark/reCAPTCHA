@@ -5,3 +5,7 @@
 ```bash
     docker-compose up -d
 ```
+
+```bash
+    https://www.google.com/recaptcha/admin
+```
